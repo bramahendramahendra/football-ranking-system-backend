@@ -8,8 +8,15 @@
     "dev": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["football", "ranking", "fifa", "competition"],
-  "author": "",
+  "keywords": [
+    "football",
+    "ranking",
+    "fifa",
+    "competition",
+    "soccer",
+    "sports"
+  ],
+  "author": "Brama",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
